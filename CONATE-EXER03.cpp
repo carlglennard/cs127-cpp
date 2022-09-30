@@ -3,6 +3,7 @@
 * Date Created: 1/8/2022
 * Program: BSIT
 * Course / Section: CS127L-8/BM5
+* password: exer_03
 */
 
 #include<iostream> 
